@@ -1,0 +1,21 @@
+{
+  "name": "shims-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fastify/cors": "^11.0.0",
+    "@fastify/passport": "^3.0.2",
+    "@fastify/secure-session": "^8.1.1",
+    "fastify": "^5.2.1",
+    "firebase-admin": "^13.2.0",
+    "passport": "^0.7.0"
+  }
+}
